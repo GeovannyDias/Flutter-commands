@@ -44,6 +44,16 @@ C:\src\flutter\.pub-cache\bin
 fvm help
 fvm version
 
+Available commands:
+  config     Set configuration for FVM
+  flutter    Proxies Flutter Commands
+  install    Installs Flutter SDK Version
+  list       Lists installed Flutter SDK Version
+  releases   Lists Flutter SDK releases.
+  remove     Removes Flutter SDK Version
+  use        Which Flutter SDK Version you would like to use
+  version    Prints the currently-installed version of FVM
+
 Desinstalar:
 
 pub global deactivate fvm
