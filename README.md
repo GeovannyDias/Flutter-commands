@@ -11,6 +11,12 @@ flutter doctor
 flutter upgrade
 flutter pub get (Instalar dependencias)
 
+Applying project-wide fixes
+Deprecated:
+
+dart fix --dry-run
+dart fix --apply
+
 ```
 ## Dart
 
