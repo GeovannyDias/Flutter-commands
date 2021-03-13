@@ -9,6 +9,7 @@ C:\src\flutter\bin
 
 flutter doctor
 flutter upgrade
+flutter pub get (Instalar dependencias)
 
 ```
 ## Dart
