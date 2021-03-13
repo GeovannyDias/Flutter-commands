@@ -8,6 +8,7 @@ Agregar a PATH:
 C:\src\flutter\bin
 
 flutter doctor
+flutter upgrade
 
 ```
 ## Dart
