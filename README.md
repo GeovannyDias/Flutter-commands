@@ -84,7 +84,8 @@ The following command will call flutter build for a selected flavor and target.
 
 fvm flutter build aab --release --flavor prod -t lib/main_prod.dart
 
-Troubleshooting
+Troubleshooting:
+
 On Windows make sure you are running as an administrator
 If you get errors with messages invalid kernel binary or 
 invalid sdk hash it means you activated fvm using flutter pub global activate fvm.
