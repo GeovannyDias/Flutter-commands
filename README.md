@@ -91,6 +91,8 @@ If you get errors with messages invalid kernel binary or
 invalid sdk hash it means you activated fvm using flutter pub global activate fvm.
 Only activate fvm using pub global activate fvm.
 
+pub cache repair
+
 ```
 
 
