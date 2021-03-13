@@ -36,7 +36,7 @@ pub global activate fvm
 
 es recomendable que se instale en los directorios de Flutter para poder agregar el PATH facilmente:
 
-flutter pub global activate fvm
+flutter pub global activate fvm (No active package fvm)
 
 Agregar el PATH de FVM:
 
