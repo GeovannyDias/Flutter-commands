@@ -74,11 +74,13 @@ Desinstalar:
 pub global deactivate fvm
 flutter pub global deactivate fvm
 
-For instance, to run the flutter run with a given Flutter SDK version just call the following. FVM will recursively try for a version in a parent directory.
+For instance, to run the flutter run with a given Flutter SDK version just call the following.
+FVM will recursively try for a version in a parent directory.
 
 fvm flutter run
 
-This syntax works also for commands with parameters. The following command will call flutter build for a selected flavor and target.
+This syntax works also for commands with parameters.
+The following command will call flutter build for a selected flavor and target.
 
 fvm flutter build aab --release --flavor prod -t lib/main_prod.dart
 
