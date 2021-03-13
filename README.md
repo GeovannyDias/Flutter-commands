@@ -96,6 +96,22 @@ pub cache repair
 
 ```
 
+## PATH
+
+```
+
+C:\src\flutter\bin
+C:\src\flutter\bin\cache\dart-sdk\bin
+C:\src\flutter\.pub-cache\bin
+
+C:\Users\Geo\AppData\Local\Pub\Cache\bin
+
+https://www.youtube.com/watch?v=7NS-RyJH9GM
+https://www.youtube.com/watch?v=3mM5dmueNfA
+https://www.youtube.com/watch?v=BNmYOlZcCbM
+https://www.youtube.com/watch?v=GSamxnXIRhg
+
+```
 
 
 
