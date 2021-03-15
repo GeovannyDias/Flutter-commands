@@ -10,6 +10,7 @@ C:\src\flutter\bin
 flutter doctor
 flutter upgrade
 flutter pub get (Instalar dependencias)
+flutter pub upgrade (actualiza dependencias)
 
 Applying project-wide fixes
 Deprecated:
